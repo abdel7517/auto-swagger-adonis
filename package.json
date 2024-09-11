@@ -1,6 +1,6 @@
 {
   "name": "auto-swagger-adonis-abd",
-  "version": "3.63.0",
+  "version": "3.63.1",
   "description": "Auto-Generate swagger docs for AdonisJS",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
