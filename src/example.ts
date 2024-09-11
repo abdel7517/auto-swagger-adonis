@@ -287,6 +287,8 @@ export default class ExampleGenerator {
         return this.exampleByField("datetime");
       case "date":
         return this.exampleByField("date");
+      case "uuid":
+        return this.exampleByField("uuid");
       case "object":
         return {};
       default:
@@ -320,6 +322,7 @@ export default class ExampleGenerator {
       price: 10.5,
       avatar: "https://example.com/avatar.png",
       url: "https://example.com",
+      uuid: "550e8400-e29b-41d4-a716-446655440000",
     };
     if (typeof ex[field] !== "undefined") {
       return ex[field];

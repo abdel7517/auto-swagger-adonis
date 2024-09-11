@@ -1,5 +1,5 @@
 {
-  "name": "abd",
+  "name": "auto-swagger-adonis-abd",
   "version": "3.63.0",
   "description": "Auto-Generate swagger docs for AdonisJS",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
   "author": "Abdel",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ad-on-is/adonis-autoswagger"
+    "url": "https://github.com/abdel7517/auto-swagger-adonis"
   },
   "license": "MIT",
   "dependencies": {
